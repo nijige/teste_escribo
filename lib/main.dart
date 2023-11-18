@@ -78,6 +78,7 @@ class _SomatorioWidgetState extends State<_SomatorioWidget> {
             TextButton(
               onPressed: () {
                 Navigator.of(context).pop();
+                /////
               },
               child: const Text('OK'),
             ),

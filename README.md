@@ -1,16 +1,30 @@
 # teste_escribo
 
-A new Flutter project.
 
-## Getting Started
+Bem-vindo ao projeto!.
 
-This project is a starting point for a Flutter application.
+## Como Rodar o Projeto
 
-A few resources to get you started if this is your first Flutter project:
+Siga estas etapas para executar o projeto em seu ambiente local.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Pré-requisitos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) instalado no seu sistema.
+
+### Instalação
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/nijige/teste_escribo
+
+1.Navegue até o diretório do projeto:
+
+[cd nome-do-projeto]
+
+2.Instale as dependências:
+
+[flutter pub get]
+
+#Rodar o Projeto
+[flutter run]
