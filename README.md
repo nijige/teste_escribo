@@ -23,8 +23,8 @@ Siga estas etapas para executar o projeto em seu ambiente local.
 ```bash [cd nome-do-projeto]
 
 2.Instale as dependências:
-
- [flutter pub get]
-
+```bash 
+ flutter pub get
+```bash 
 #Rodar o Projeto
-[flutter run]
+flutter run
