@@ -18,7 +18,7 @@ Siga estas etapas para executar o projeto em seu ambiente local.
    ```bash
    git clone https://github.com/nijige/teste_escribo
 
-1.Navegue até o diretório do projeto:
+1. Navegue até o diretório do projeto:
 
 ```bash [cd nome-do-projeto]
 
